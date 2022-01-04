@@ -1,0 +1,34 @@
+﻿  ControlPacket.cpp
+  DynamicLocalStreamAtObject.cpp
+  DynamicLocalStreamAtPlayer.cpp
+  DynamicLocalStreamAtPoint.cpp
+  DynamicLocalStreamAtVehicle.cpp
+  DynamicStream.cpp
+  Effect.cpp
+  GlobalStream.cpp
+  timer.cpp
+  LocalStream.cpp
+  Network.cpp
+  Parameter.cpp
+  Pawn.cpp
+  PlayerStore.cpp
+  PointStream.cpp
+  StaticLocalStreamAtObject.cpp
+  StaticLocalStreamAtPlayer.cpp
+  StaticLocalStreamAtPoint.cpp
+  StaticLocalStreamAtVehicle.cpp
+  Stream.cpp
+  Compilando...
+  amxplugin.cpp
+  bitstream.cpp
+  logger.cpp
+  raknet.cpp
+  ysf.cpp
+  main.cpp
+  VoicePacket.cpp
+     Criando biblioteca C:\Users\mateu\Documents\GameServer\bin\sampvoice.lib e objeto C:\Users\mateu\Documents\GameServer\bin\sampvoice.exp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 2843 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  server.vcxproj -> C:\Users\mateu\Documents\GameServer\bin\sampvoice.dll
